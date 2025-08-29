@@ -14,7 +14,7 @@ Abaixo, a aplicação em funcionamento, classificando um dígito como "não é o
 | :-----------------: | :--------------: |
 | ![Exemplo de classificação negativa]![alt text](<Captura de tela 2025-08-29 000624.png>) | ![Exemplo de classificação positiva].![alt text](<Captura de tela 2025-08-29 000436.png>) |
 
-**Observação:** Para que as imagens apareçam, você precisa fazer o upload delas no GitHub. O jeito mais fácil é editar o `README.md` diretamente no site do GitHub e arrastar os seus arquivos de print para o local indicado (`URL_DA_IMAGEM_AQUI`).
+
 
 ---
 

@@ -2,4 +2,4 @@ streamlit
 scikit-learn
 streamlit-drawable-canvas
 opencv-python-headless
-numpy
+numpy7
